@@ -1,0 +1,2 @@
+# CompetitionShare2022
+2022GPNU数科院学科竞赛分享
